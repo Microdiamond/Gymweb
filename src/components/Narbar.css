@@ -1,0 +1,18 @@
+.mNavbar {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.315) !important;
+  position: absolute !important;
+  display: flex;
+  justify-content: space-around;
+}
+
+.me-auto a,
+.Byb, .signIn{
+  color: #ffff !important;
+  font-weight: 600 !important;
+}
+
+/* .signIn {
+  color: #eb2b17 !important;
+  font-weight: 600 !important;
+} */
