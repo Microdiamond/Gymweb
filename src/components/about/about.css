@@ -61,3 +61,20 @@
 .amenitiesRowII{
     margin-top: 2rem !important;
 }
+
+.abimg2,.abimg3,.abimg4,.abimg5{
+    width: 65%;
+    padding-top: 25%;
+}
+
+.abimg2ColTop{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.abimg2ColBot{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}

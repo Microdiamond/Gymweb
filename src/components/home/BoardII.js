@@ -7,7 +7,7 @@ import gym2 from './gym2.jpg'
 
 const BoardII = () => {
     const LearnMore = () => {
-        window.location.href = '#'
+        window.location.href = '/about'
     }
     return (
         <div className='board bgColor'>
