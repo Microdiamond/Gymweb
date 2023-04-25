@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../BoardV.jpg'
+import logo from './BoardV.jpg'
 import './Board.css';
 import { Col } from 'react-bootstrap';
 

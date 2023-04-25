@@ -1,9 +1,9 @@
 import React from 'react'
 import './Board.css';
 import { Row, Col, Container } from 'react-bootstrap';
-import gym3 from '../gym3.jpg'
-import gym4 from '../gym4.jfif'
-import gym5 from '../gym5.jpg'
+import gym3 from './gym3.jpg'
+import gym4 from './gym4.jfif'
+import gym5 from './gym5.jpg'
 
 const BoardIII = () => {
     return (

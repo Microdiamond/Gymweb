@@ -2,8 +2,8 @@
 import React from 'react'
 import './Board.css';
 import { Row, Col, Container } from 'react-bootstrap';
-import gym1 from '../gym1.jpeg'
-import gym2 from '../gym2.jpg'
+import gym1 from './gym1.jpeg'
+import gym2 from './gym2.jpg'
 
 const BoardII = () => {
     const LearnMore = () => {

@@ -1,9 +1,9 @@
 import React from 'react'
 import './Board.css';
 import { Row, Col, Container } from 'react-bootstrap';
-import human1 from '../human1.jpg'
-import human2 from '../human2.jpg'
-import human3 from '../human3.jpg'
+import human1 from './human1.jpg'
+import human2 from './human2.jpg'
+import human3 from './human3.jpg'
 
 const BoardIV = () => {
     return (
