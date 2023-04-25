@@ -1,0 +1,63 @@
+.about{
+    height: 600px !important;
+    width: 100% !important;
+}
+.about.bgColor {
+  background-color: #141414;
+}
+
+.aboutOne{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.abimg1{
+    width: 60%;
+}
+
+.aboutUs{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #eb2b17;
+}
+
+.aboutOne.flCol{
+    flex-direction: column;
+}
+
+.spAbUs{
+    color: #fff;
+    font-size: 18px;
+    width: 30rem;
+}
+
+.abStanAmenitie{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #eb2b17;
+    margin-top: 3rem !important;
+}
+
+.dumbbell1{
+    width: 5rem;
+}
+
+.amenities{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.amenities span{
+    font-weight: bold;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.amenitiesRowII{
+    margin-top: 2rem !important;
+}
